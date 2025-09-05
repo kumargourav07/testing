@@ -1,0 +1,17 @@
+.navContainer{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left:7px;
+    margin-right:7px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+}
+
+.menu a{
+    text-decoration: none;
+}
